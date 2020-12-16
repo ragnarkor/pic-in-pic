@@ -1,0 +1,2 @@
+E:\大学\大三下学期\多媒体\第12周讲义\VideoProcDemo_OpenCV\x64\Debug\VideoProcDemo_OpenCV.exe
+E:\大学\大三下学期\多媒体\第12周讲义\VideoProcDemo_OpenCV\x64\Debug\VideoProcDemo_OpenCV.pdb
